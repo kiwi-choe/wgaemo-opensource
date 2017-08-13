@@ -20,10 +20,10 @@ elasticsearhc는 자바로 개발된 오픈소스로 RestFull API 를 통해 검
 > * kibana : visualization을 담당, 수집된 로그를 시각화함.<br />
 
 4. 오픈소스 프로젝트 가져오기 및 메인 저장소와 동기화
-
 <pre>
 1) https://github.com/elastic/elasticsearch 내 레파지토리로 fork 함
 2) git clone https://github.com/pk8498/elasticsearch.git
 3) git remote add upstream https://github.com/elastic/elasticsearch
 4) git pull upstream master
 </pre>
+> https://github.com/pk8498/elasticsearch
